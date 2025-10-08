@@ -1,4 +1,4 @@
-console.log("Welcome to my Git demo project!");
+console.log("Git/Github Demo!");
 
 function greetUser(name) {
   return `Hello, ${name}!`;
@@ -12,3 +12,6 @@ function add(a, b) {
 }
 
 console.log(`2 + 3 = ${add(2, 3)}`);
+
+
+console.log("New API feature coming soon...");
